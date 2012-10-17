@@ -1,4 +1,4 @@
-iOS and Android web app feature tests be cucumber
+iOS and Android web app feature tests by cucumber
 
 # Requires
 
